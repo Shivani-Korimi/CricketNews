@@ -9,6 +9,9 @@ Cricket news app in react native expo. Projects for native beginners
 ### Name: Sai Geethika Akkineni
 ### Mail: akkinesa@mail.uc.edu
 
-![Geethika's Headshot](images/headshot.png){width=150px height=150px}
+![Geethika's Headshot](assets/adaptive-icon.png)
+![Geethika's Headshot](assets/favicon.png)
+![Geethika's Headshot](assets/icon.png)
+![Geethika's Headshot](assets/splash.png)
 
 # Personal Mobile App Project Final
