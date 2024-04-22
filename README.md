@@ -62,7 +62,7 @@ And the below are some of the other components we have included in the code used
 
 Overall, this component fetches news articles from an API, displays them as cards with relevant information, and handles loading and error states accordingly.
 
-![Opening the application](assets/opening application.png)
+![Opening the application](assets/openingapplication.png)
 ![Homescreen of the application](assets/Homescreen.jpg)
 ![Opening Prefereed News in the application](assets/Afteropening.jpg)
 ![Reloading the news](assets/Reload.jpg)
